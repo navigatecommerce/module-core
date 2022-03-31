@@ -1,4 +1,4 @@
-# Navigate Core for Magento 2
+# Navigate Commerce Core module for Magento 2
 
 ## How to install Navigate_Core
 
