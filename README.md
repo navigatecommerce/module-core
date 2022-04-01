@@ -12,7 +12,7 @@ Run the following command in Magento 2 root directory to install Navigate_Core m
 ```
 composer require navigate/module-core
 php bin/magento setup:upgrade
-php bin/magento setup:static-content:deploy
+php bin/magento setup:static-content:deploy -f
 ```
 
 #### Update
@@ -20,7 +20,7 @@ php bin/magento setup:static-content:deploy
 ```
 composer update navigate/module-core
 php bin/magento setup:upgrade
-php bin/magento setup:static-content:deploy
+php bin/magento setup:static-content:deploy -f
 ```
 
 Run below command if your store in the production mode:
@@ -39,5 +39,5 @@ If you prefer to install this module manually, kindly follow the steps described
 
 ```
 php bin/magento setup:upgrade
-php bin/magento setup:static-content:deploy
+php bin/magento setup:static-content:deploy -f
 ```
