@@ -34,7 +34,7 @@ php bin/magento setup:di:compile
 If you prefer to install this module manually, kindly follow the steps described below - 
 
 - Download the latest version [here](https://github.com/navigatecommerce/module-core/archive/refs/heads/main.zip) 
-- Create a folder path `app/code/Navigate/Core` and extract `main.zip` file into it.
+- Create a folder path like this `app/code/Navigate/Core` and extract the `main.zip` file into it.
 - Navigate to Magento root directory and execute the below commands.
 
 ```
