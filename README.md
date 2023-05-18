@@ -2,7 +2,6 @@
 
 ## How to install Navigate_Core module
 
-
 ### Composer Installation
 
 Run the following command in Magento 2 root directory to install Navigate_Core module via composer.

@@ -1,3 +1,12 @@
+/*
+ * Navigate Commerce
+ *
+ * @author        Navigate Commerce
+ * @package       Navigate_Core
+ * @copyright     Copyright (c) Navigate (https://www.navigatecommerce.com/)
+ * @license       https://www.navigatecommerce.com/end-user-license-agreement
+ */
+
 /*adding company icon on admin panel menu bar navigate*/
 #menu-navigate-core-core > a:before { content: url('../images/navigate.png'); margin-bottom: 5px; }
 .config-nav .navigate-extensions .admin__page-nav-title:before {
@@ -13,4 +22,10 @@
 }
 .config-nav .navigate-extensions .admin__page-nav-title strong {
     margin-left: 40px;
+}
+.admin__menu .submenu .parent .submenu-group-title{
+    background: rgba(255,255,255,.05);
+}
+.admin__menu .submenu .parent {
+    background: rgba(255,255,255,.02);
 }
