@@ -3,10 +3,10 @@
   "description": "Magento 2 Core by Navigate",
   "type": "magento2-module",
   "license": "proprietary",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "require": {
       "php": "~7.0.0|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0|~8.2.0"
-    },
+  },
   "authors": [
     {
       "name": "Navigate Commerce",
